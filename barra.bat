@@ -1145,21 +1145,19 @@ cls
 echo.
 echo.
 echo Carregando Permissoes...
-echo ----------------------------------
-echo Progresso: лллллллллллллллллллл 100%%
-echo ----------------------------------
+echo ------------------------------------------------------------- 
+echo Progresso: лллллллллллллллллллллллллллллллллллллллллллллллллл 100%%
+echo -------------------------------------------------------------  
 GOTO END
 :END
 cls
 echo.
 echo.
 echo Completo...
-echo ----------------------------------
-echo Progresso: лллллллллллллллллллл 100%%
+echo ------------------------------------------------------------- 
+echo Progresso: лллллллллллллллллллллллллллллллллллллллллллллллллл 100%%
 echo.
 echo.
-
-pause
 ECHO Bat dos Pia da Frente de Caixa
 ECHO By Douglas Cezaro
 timeout /t 3
@@ -2299,23 +2297,20 @@ cls
 echo.
 echo.
 echo Carregando Permissoes...
-echo ----------------------------------
-echo Progresso: лллллллллллллллллллл 100%%
-echo ----------------------------------
+echo ------------------------------------------------------------- 
+echo Progresso: лллллллллллллллллллллллллллллллллллллллллллллллллл 100%%
+echo -------------------------------------------------------------  
 GOTO END
 :END
 cls
 echo.
 echo.
 echo Completo...
-echo ----------------------------------
-echo Progresso: лллллллллллллллллллл 100%%
+echo ------------------------------------------------------------- 
+echo Progresso: лллллллллллллллллллллллллллллллллллллллллллллллллл 100%%
 echo.
 echo.
 
-pause
-
-ECHO Concluido
 ECHO Bat dos Pia da Frente de Caixa
 timeout /t 3
 @CHOICE /t 1 /C snc /M "" /N /CS /D s
