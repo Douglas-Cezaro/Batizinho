@@ -1,5 +1,5 @@
 @echo off
-title BAT dos Pia da Frente de Caixa
+title Permissoes Frente de Caixa
 set LOG1=LOG1.txt
 cls
 :: RÓTULO INICIAL
